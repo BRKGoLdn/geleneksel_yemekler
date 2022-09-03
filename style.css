@@ -12,13 +12,31 @@ ul{
     
 }
 ul li::before {
-    content: "\1F961";
+    content: "\1F958";
 }
 li{
     font-size: 20px;
     padding: 10px;
     display: inline;
     margin-right: 150px;
+        
+}
+
+.baslik{
+    font-family: Bernard MT Condensed;
+    font-size: 120px;
+    text-align: center;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+img{
+    border-radius: 1000px;
     
-    
+}
+.subtitle{
+    font-family: Bernard MT Condensed;
+    font-size: 80px;
+    text-align: center;
 }
