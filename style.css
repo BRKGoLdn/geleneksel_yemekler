@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+ul{
+    list-style: none;
+    background-color:black ;
+    color: white;
+    padding: 10px;
+    
+}
+ul li::before {
+    content: "\1F961";
+}
+li{
+    font-size: 20px;
+    padding: 10px;
+    display: inline;
+    margin-right: 150px;
+    
+    
+}
