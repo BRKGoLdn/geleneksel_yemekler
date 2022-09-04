@@ -10,7 +10,10 @@ h1{
 ,#lahmacun_mazemeler , #lahmacun_mazemeler_tt 
 ,#lahmacun_tarif,#lahmacun_tarif_tt , #lahmacun_btn2 ,
  #iskender_mazemeler , #iskender_mazemeler_tt ,
- #iskender_tarif,#iskender_tarif_tt , #iskender_btn2  {
+ #iskender_tarif,#iskender_tarif_tt , #iskender_btn2
+ ,#kere_mazemeler , #kere_mazemeler_tt ,
+ #kere_tarif,#kere_tarif_tt , #kere_btn2  
+  {
     display: none;
 }
 .h4_tt {
@@ -53,6 +56,8 @@ img{
     float:right;
     border-radius:100px ;
     border: 2px solid black ;
+    width: 200px;
+    height: 200px;
     
 }
 span{
