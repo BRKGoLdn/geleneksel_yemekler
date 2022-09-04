@@ -3,3 +3,45 @@ h1{
     text-align: center;
     font-family: Magneto;
 }
+.mazemeler{
+    display:none;
+}
+#mazemeler , #mazemeler_tt ,#tarif,#tarif_tt , #btn2 {
+    display: none;
+}
+.h4_tt {
+    font-size: 20px;
+    text-align: center;
+    font-family: Magneto;
+}
+.bilgiler_p{
+    font-size: 15px;
+    font-family: cursive;
+}
+.goster , .kapat{
+    width: 150px ;
+    background-color: blue;
+    border: 0px;
+    color: white;
+    border-radius: 100px;
+}
+h4{
+    font-size: 25px;
+
+}
+h2{
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-shadow: 1px 1px black;
+   background-color: red;
+   color: white;
+}
+h3{
+    font-size: 25px;
+    font-family: Bernard MT Condensed;
+}
+p{
+    font-size: 17px;
+
+}
