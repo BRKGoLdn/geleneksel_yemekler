@@ -12,7 +12,11 @@ h1{
  #iskender_mazemeler , #iskender_mazemeler_tt ,
  #iskender_tarif,#iskender_tarif_tt , #iskender_btn2
  ,#kere_mazemeler , #kere_mazemeler_tt ,
- #kere_tarif,#kere_tarif_tt , #kere_btn2  
+ #kere_tarif,#kere_tarif_tt , #kere_btn2 
+ ,#antakya_mazemeler , #antakya_mazemeler_tt ,
+ #antakya_tarif,#antakya_tarif_tt , #antakya_btn2 
+ ,#hosmerim_mazemeler , #hosmerim_mazemeler_tt ,
+ #hosmerim_tarif,#hosmerim_tarif_tt , #hosmerim_btn2   
   {
     display: none;
 }
@@ -46,7 +50,7 @@ h2{
 }
 h3{
     font-size: 25px;
-    font-family: Bernard MT Condensed;
+    font-family: cursive;
 }
 p{
     font-size: 17px;
