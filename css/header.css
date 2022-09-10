@@ -15,8 +15,8 @@ ul li::before {
     content: "\1F958";
 }
 li{
-    font-size: 20px;
-    padding: 10px;
+    font-size: 30px;
+    padding: 20px;
     display: inline;
     margin-right: 150px;
         
