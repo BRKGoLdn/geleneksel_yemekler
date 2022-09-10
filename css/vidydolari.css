@@ -18,3 +18,7 @@ h3{
 div{
     float:left;
 }
+a:hover{
+    color: red;
+    padding: 5px;
+}
